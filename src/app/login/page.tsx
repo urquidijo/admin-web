@@ -69,7 +69,7 @@ export default function LoginPage() {
         <div className="w-full max-w-5xl rounded-3xl border border-slate-800/80 bg-slate-900/80 shadow-2xl shadow-black/40 backdrop-blur-md overflow-hidden">
           <div className="grid grid-cols-1 md:grid-cols-2">
             {/* LADO IZQUIERDO: branding */}
-            <div className="hidden md:flex flex-col justify-between bg-gradient-to-br from-emerald-500/10 via-sky-500/10 to-blue-500/10 p-8 border-r border-slate-800/70">
+            <div className="hidden md:flex flex-col justify-between bg-linear-to-br from-emerald-500/10 via-sky-500/10 to-blue-500/10 p-8 border-r border-slate-800/70">
               <div>
                 <div className="inline-flex items-center gap-3 rounded-full border border-emerald-400/40 bg-slate-900/60 px-3 py-1 text-xs text-emerald-200 mb-6">
                   <span className="flex h-6 w-6 items-center justify-center rounded-full bg-emerald-500/20 border border-emerald-400/50 text-lg">
